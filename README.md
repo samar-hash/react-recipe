@@ -2,4 +2,4 @@
 # https://samar-hash.github.io/react-recipe/
  
 recpie project:
-to search the recpies using API in react functional components by react hooks,recpies will show and it's ingredient..
+Find your everyday cooking inspiration on Recipe Website. Discover recipes, cooks, videos, and how-tos based on the food you love.
